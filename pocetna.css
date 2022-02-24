@@ -1,0 +1,28 @@
+
+.divbox1{
+    position:absolute;
+    display:inline-block;
+
+    margin:25%;
+    position:absolute;
+    left:100px;
+}
+img{
+    max-width: 250px;
+    max-height: 100px;
+}
+.divbox2{
+    position:absolute;
+    display:inline-block;
+
+    margin:25%;
+    position:absolute;
+    left:300px;
+}
+p{
+    margin:5px 5px 5px 5px;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 10px 0;
+  }
